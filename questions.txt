@@ -1,0 +1,5 @@
+q1=How is resilience conceptualized in the supply chain literature, and what core dimensions recur across studies?
+q2=What categories of supply chain risk are most frequently discussed, and how are they commonly structured or classified?
+q3=How are network concepts used to explain disruption propagation and vulnerability in supply chains?
+q4=What types of data are used to study supply chain risk and resilience, and how are they typically operationalized?
+q5=How do studies integrate risk, network structure, and data in analytical approaches to improve supply chain resilience?
