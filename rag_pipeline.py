@@ -12,7 +12,6 @@ from chromadb.config import Settings
 import ollama
 
 from datetime import datetime
-import os
 
 LOG_PATH = os.path.join("logs", "rag_results.txt")
 
